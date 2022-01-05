@@ -1218,7 +1218,7 @@ PLAYER_LIST:
 - ' §a▪ §fАдминистрация: %s'
 - ''
 BROADCAST_NO_ARGS: '§6§lOWIX§e§lMINE§7: §fИспользование - §a/bc сообщение'
-BROADCAST_FORMAT: '§a⊳ §fОбъявление: §6%s §7∫ §fПишет: §c%s'
+BROADCAST_FORMAT: '§a⊳ §8(§7%s§8) §7∫ §fОбъявление: §c%s'
 DAY_SET: '§6§lOWIX§e§lMINE§7: §fВы установили время §aдень'
 NIGHT_SET: '§6§lOWIX§e§lMINE§7: §fВы установили время §aночь'
 RAIN_SET: '§6§lOWIX§e§lMINE§7: §fВы установили погоду §aсолнце'
