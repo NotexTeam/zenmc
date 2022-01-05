@@ -1342,6 +1342,8 @@ TELEPORT_MOVE_ERROR: '§6§lOWIX§e§lMINE§7: §fТелепортация §cо
 USER_SETBED: '§6§lOWIX§e§lMINE§7: §fТочка кровати §aустановлена'
 WARP_ITEM_LORE:
 - ''
+- '§7Владелец: §m§k%s'
+- '§7Дата создания: §f%s'
 - '§7Координаты варпа:'
 - ' §7Мир: §c%s'
 - ' §7X: §c%s'
