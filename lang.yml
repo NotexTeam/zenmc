@@ -751,12 +751,12 @@ SURVIVAL_BOARD_NAME: '§6§lOWIX§e§lMINE §7⚔ §6§lГРИФ-1'
 SURVIVAL_BOARD_DATE_LINE: '    §7'
 SURVIVAL_BOARD_GROUP_LINE: ' Группа: '
 SURVIVAL_BOARD_PROFILE_LINE: ' §6§lИнформация§7:'
-SURVIVAL_BOARD_LEVEL_LINE: '§6§l╔ §fУровень: §7★'
-SURVIVAL_BOARD_COINS_LINE: '§6§l╠ §fЮниты: §d§l☄§d'
-SURVIVAL_BOARD_GOLD_LINE: '§6§l╠ §fЗолото: §e✰§6'
-SURVIVAL_BOARD_MONEY_LINE: '§6§l╠ §fМонеты: §e⛂§e'
-SURVIVAL_BOARD_STATS_LINE: '§6§l╠ §fУ/С: §7§l⚔§a'
-SURVIVAL_BOARD_BOOSTER_LINE: '§6§l╚ §fБустер: §c'
+SURVIVAL_BOARD_LEVEL_LINE: '§6╔ §fУровень: §7★'
+SURVIVAL_BOARD_COINS_LINE: '§6╠ §fЮниты: §d§l☄§d'
+SURVIVAL_BOARD_GOLD_LINE: '§6╠ §fЗолото: §e✰§6'
+SURVIVAL_BOARD_MONEY_LINE: '§6╠ §fМонеты: §e⛂§e'
+SURVIVAL_BOARD_STATS_LINE: '§6╠ §fУ/С: §7§l⚔§a'
+SURVIVAL_BOARD_BOOSTER_LINE: '§6╚ §fБустер: §c'
 SURVIVAL_BOARD_LOCAL_ONLINE_LINE: ' Онлайн режима: §a§l✓§a'
 SURVIVAL_BOARD_SITE_LINE: '   §awww.OwixMine.net'
 
@@ -799,11 +799,11 @@ JOBS_WOODCUTTER_BREAK_WOOD: '§a§lЛЕСОРУБ§7: §fВы получили �
 JOBS_WOODCUTTER_BREAK_TREE: '§a§lЛЕСОРУБ§7: §fВы срубили дерево и получили §e%s⛂§f. §aПолучите §fденьги у лесоруба §7(ПКМ)'
 JOBS_BOARD_MINER_LINE: ' Работа §6§lшахтера'
 JOBS_BOARD_WOODCUTTER_LINE: ' Работа §6§lлесоруба'
-JOBS_BOARD_SALARY_LINE: '§6§l╔ §fЗарплата: §a'
-JOBS_BOARD_MINED_LINE: '§6§l╠ §fДобыто: §b'
-JOBS_BOARD_BOOSTER_LINE: '§6§l╠ §fБустер: §c'
-JOBS_BOARD_COMBO_LINE: '§6§l╠ §fКомбо: §d'
-JOBS_BOARD_MONEY_LINE: '§6§l╚ §fМонеты: §e⛂§e'
+JOBS_BOARD_SALARY_LINE: '§6╔ §fЗарплата: §a'
+JOBS_BOARD_MINED_LINE: '§6╠ §fДобыто: §b'
+JOBS_BOARD_BOOSTER_LINE: '§6╠ §fБустер: §c'
+JOBS_BOARD_COMBO_LINE: '§6╠ §fКомбо: §d'
+JOBS_BOARD_MONEY_LINE: '§6╚ §fМонеты: §e⛂§e'
 JOBS_BOARD_STATS_LINE: ' §6§lСтатистика'
 MINER_TOP_HEADER: '§6§lТОП ШАХТЕРОВ'
 WOODCUTTER_TOP_HEADER: '§a§lТОП ЛЕСОРУБОВ'
@@ -812,10 +812,10 @@ LOBBY_BOARD_NAME: '§6§lOWIX§e§lMINE §7⚔ §6§lХАБ-1'
 LOBBY_BOARD_DATE_LINE: '    §7'
 LOBBY_BOARD_GROUP_LINE: ' Группа: '
 LOBBY_BOARD_PROFILE_LINE: ' §6§lПрофиль:'
-LOBBY_BOARD_LEVEL_LINE: '§6§l┏ §fУровень: §7★'
-LOBBY_BOARD_COINS_LINE: '§6§l┃ §fЮниты: §d§l☄§d'
-LOBBY_BOARD_GOLD_LINE: '§6§l┃ §fЗолото: §e✰§6'
-LOBBY_BOARD_PRESENTS_LINE: '§6§l┗ §fПодарки: §e§e'
+LOBBY_BOARD_LEVEL_LINE: '§6╔ §fУровень: §7★'
+LOBBY_BOARD_COINS_LINE: '§6╠ §fЮниты: §d§l☄§d'
+LOBBY_BOARD_GOLD_LINE: '§6╠ §fЗолото: §e✰§6'
+LOBBY_BOARD_PRESENTS_LINE: '§6╚ §fПодарки: §e§e'
 LOBBY_BOARD_BOOSTER_LINE: '§8§l| §fБустер: §c'
 LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Онлайн режима: §a§l✓§a'
 LOBBY_BOARD_SITE_LINE: '   §awww.OwixMine.net'
@@ -1165,19 +1165,19 @@ BOXES_ONEBLOCK_MONEY_LORE:
 - ''
 - §a▸ §a§lПокупка §7на сайте §ewww.OwixMine.net
 BOXES_NO_KEYS: '§6§lКЕЙСЫ§7: §fУ вас §cнет §fключей от данного кейса, купите на сайте §ewww.OwixMine.net'
-BOXES_REWARD_COINS_TITLE: '§6§l%s §fюнитов'
-BOXES_REWARD_GOLD_TITLE: '§e§l%s §fзолота'
-BOXES_REWARD_ITEMS_TITLE: '%s'
-BOXES_REWARD_MONEY_TITLE: '§e§l%s§6⛂'
-BOXES_REWARD_SOULS_TITLE: '%s'
-BOXES_REWARD_TITULS_TITLE: '§e§l| §fТитул: §f%s§e§l |'
+BOXES_REWARD_COINS_TITLE: '§e§l⌜ §6§l%s §fюнитов§e§l ⌟'
+BOXES_REWARD_GOLD_TITLE: '§e§l⌜ §e§l%s §fзолота§e§l ⌟'
+BOXES_REWARD_ITEMS_TITLE: '§e§l⌜ %s§e§l ⌟'
+BOXES_REWARD_MONEY_TITLE: '§e§l⌜ §e§l%s§6⛂§e§l ⌟'
+BOXES_REWARD_SOULS_TITLE: '§e§l⌜ %s§e§l ⌟'
+BOXES_REWARD_TITULS_TITLE: '§e§l⌜ §fТитул: §f%s§e§l ⌟'
 BOXES_REWARD_COINS: '§6§lКЕЙСЫ§7: §fВы выиграли §6§l%s §fюнитов'
 BOXES_REWARD_GOLD: '§6§lКЕЙСЫ§7: §fВы выиграли §6§l%s §fзолота'
 BOXES_REWARD_DONATE: '§6§lКЕЙСЫ§7: §fВы выиграли привилегию §e§l%s'
 BOXES_REWARD_ITEMS: '§6§lКЕЙСЫ§7: §fВы выиграли §e§l%s'
 BOXES_REWARD_MONEY: '§6§lКЕЙСЫ§7: §fВы выиграли §e§l%s§6⛂'
-BOXES_REWARD_SOUL: '§6§lКЕЙСЫ§7: §fВы выиграли духа §e§l%s'
-BOXES_REWARD_TITUL: '§6§lКЕЙСЫ§7: §fВы выиграли титул §e§l%s'
+BOXES_REWARD_SOUL: '§6§lКЕЙСЫ§7: §fВы выиграли духа §e§l%s§f, установи его - §6/souls'
+BOXES_REWARD_TITUL: '§6§lКЕЙСЫ§7: §fВы выиграли титул §e§l%s§f, установи его - §6/titul'
 BOXES_IS_OPEN: '§6§lКЕЙСЫ§7: §fКейс §cуже открывает §fкто-то другой, пожалуйста, подождите.'
 BOXES_HOLOGRAM:
 - '§c§k|||§r §6§lОКУПНЫЕ КЕЙСЫ §c§k|||§r'
@@ -1218,7 +1218,7 @@ PLAYER_LIST:
 - ' §a▪ §fАдминистрация: %s'
 - ''
 BROADCAST_NO_ARGS: '§6§lOWIX§e§lMINE§7: §fИспользование - §a/bc сообщение'
-BROADCAST_FORMAT: '§6§l%s §fпишет: §a%s'
+BROADCAST_FORMAT: '§a⊳ §fОбъявление: §6%s §7∫ §fПишет: §c%s'
 DAY_SET: '§6§lOWIX§e§lMINE§7: §fВы установили время §aдень'
 NIGHT_SET: '§6§lOWIX§e§lMINE§7: §fВы установили время §aночь'
 RAIN_SET: '§6§lOWIX§e§lMINE§7: §fВы установили погоду §aсолнце'
@@ -1237,7 +1237,7 @@ TPTOGGLE_ENABLE: '§6§lOWIX§e§lMINE§7: §fТелепортации §aвкл
 TPTOGGLE_DISABLE: '§6§lOWIX§e§lMINE§7: §fТелепортации §cотключены'
 VANISH_ENABLE: '§6§lOWIX§e§lMINE§7: §fВы §aвключили §fрежим невидимости'
 VANISH_DISABLE: '§6§lOWIX§e§lMINE§7: §fВы §cвыключили §fрежим невидимости'
-VANISH_ACTIONBAR: §aВы находитесь в режиме невидимости
+VANISH_ACTIONBAR: §aВы находитесь в режиме невидимости!
 GAMEMODE_FORMAT_NO_ARGS: '§6§lOWIX§e§lMINE§7: §fУкажите §cрежим §f- §a/gamemode [режим]'
 GAMEMODE: '§6§lOWIX§e§lMINE§7: §fРежим §a%s §fвключен'
 GAMEMODE_TO: '§6§lOWIX§e§lMINE§7: §fИгроку §a%s §fустановлен режим §a%s'
@@ -1342,7 +1342,6 @@ TELEPORT_MOVE_ERROR: '§6§lOWIX§e§lMINE§7: §fТелепортация §cо
 USER_SETBED: '§6§lOWIX§e§lMINE§7: §fТочка кровати §aустановлена'
 WARP_ITEM_LORE:
 - ''
-- '§7Владелец: %s'
 - '§7Дата создания: §f%s'
 - '§7Координаты варпа:'
 - ' §7Мир: §c%s'
@@ -1398,10 +1397,9 @@ WARP_ITEM_EMPTY_NAME: §cНа сервере нет активных варпо�
 WARP_ITEM_EMPTY_LORE:
 - §7В данный момент на сервере
 - §7нет доступных публичных варпов
-MYWARP_ITEM_EMPTY_NAME: §cУ вас нет личных варпов
+MYWARP_ITEM_EMPTY_NAME: §cВ разработке...
 MYWARP_ITEM_EMPTY_LORE:
-- §7В данный момент у вас нет
-- §7личных варпов
+- §7
 CALL_ITEM_EMPTY_NAME: §cУ вас нет активных заявок
 CALL_ITEM_EMPTY_LORE:
 - §7В данный момент к вам
@@ -1550,6 +1548,7 @@ AUCTION_HELP_ITEM_LORE:
 - §7Хотите продать предмет?
 - '§7Используйте команду:'
 - §a/ah sell цена кол-во
+- ''
 AUCTION_ITEM_LORE:
 - ''
 - §7Данный предмет продает
@@ -1688,7 +1687,7 @@ AUCTION_NO_ITEMS_LORE:
 - ''
 - §7Кажется, я ничего не нашел,
 - §7или предметы отсутствуют
-AUCTION_REMOVED_ITEM: §6§lАУКЦИОН§7 | §fВы успешно сняли свой лот с аукциона
+AUCTION_REMOVED_ITEM: '§6§lАУКЦИОН§7: §fВы успешно сняли свой лот с аукциона!'
 AUCTION_LORE_MYGUI:
 - ''
 - '§7Цена продажи: §a%s$'
@@ -1723,7 +1722,7 @@ AUCTION_LORE_ITEM:
 - ''
 - §e▸ ЛКМ, чтобы купить
 - §e▸ ПКМ, чтобы открыть все товары продавца
-COMMAND_ONLY_CONSOLE: '§6§lОшибка &8| &fДанную команду можно выполнить только через консоль!'
+COMMAND_ONLY_CONSOLE: '§c§lОШИБКА§7: §fДанную команду можно выполнить только через консоль!'
 #PRIVATE MESSAGES
 COMMAND_MSG_FORMAT: '§6§lСООБЩЕНИЯ§7: §fИспользование: §a/msg [ник] [сообщение]'
 COMMAND_REPLY_FORMAT: '§6§lСООБЩЕНИЯ§7: §fИспользование: §a/r [сообщение]'
