@@ -1342,7 +1342,6 @@ TELEPORT_MOVE_ERROR: '§6§lOWIX§e§lMINE§7: §fТелепортация §cо
 USER_SETBED: '§6§lOWIX§e§lMINE§7: §fТочка кровати §aустановлена'
 WARP_ITEM_LORE:
 - ''
-- '§7Дата создания: §f%s'
 - '§7Координаты варпа:'
 - ' §7Мир: §c%s'
 - ' §7X: §c%s'
@@ -1422,7 +1421,6 @@ HOME_ITEM_EMPTY_LORE:
 - §7точек дома
 HOME_LORE:
 - ''
-- '§7Координаты дома:'
 - ' §7Мир: §c%s'
 - ' §7X: §c%s'
 - ' §7Y: §c%s'
