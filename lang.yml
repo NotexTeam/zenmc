@@ -748,15 +748,15 @@ SKYBLOCK_SHOP_CUSTOM: Магазин редких предметов
 
 #SURVIVAL
 SURVIVAL_BOARD_NAME: '§6§lOWIX§e§lMINE §7⚔ §6§lГРИФ-1'
-SURVIVAL_BOARD_DATE_LINE: '    §7'
+SURVIVAL_BOARD_DATE_LINE: '  §7'
 SURVIVAL_BOARD_GROUP_LINE: ' Группа: '
-SURVIVAL_BOARD_PROFILE_LINE: ' §6§lИнформация§7:'
-SURVIVAL_BOARD_LEVEL_LINE: '§6╔ §fУровень: §7★'
-SURVIVAL_BOARD_COINS_LINE: '§6╠ §fЮниты: §d§l☄§d'
-SURVIVAL_BOARD_GOLD_LINE: '§6╠ §fЗолото: §e✰§6'
-SURVIVAL_BOARD_MONEY_LINE: '§6╠ §fМонеты: §e⛂§e'
-SURVIVAL_BOARD_STATS_LINE: '§6╠ §fУ/С: §7§l⚔§a'
-SURVIVAL_BOARD_BOOSTER_LINE: '§6╚ §fБустер: §c'
+SURVIVAL_BOARD_PROFILE_LINE: ' §6§lИнформация §7↴'
+SURVIVAL_BOARD_LEVEL_LINE: '§6 ► §fУровень: §7★'
+SURVIVAL_BOARD_COINS_LINE: '§6 ► §fЮниты: §d§l☄§d'
+SURVIVAL_BOARD_GOLD_LINE: '§6 ► §fЗолото: §e✰§6'
+SURVIVAL_BOARD_MONEY_LINE: '§6 ► §fМонеты: §e⛂§e'
+SURVIVAL_BOARD_STATS_LINE: '§6 ► §fУ/С: §7§l⚔§a'
+SURVIVAL_BOARD_BOOSTER_LINE: '§6 ► §fБустер: §c'
 SURVIVAL_BOARD_LOCAL_ONLINE_LINE: ' Онлайн режима: §a§l✓§a'
 SURVIVAL_BOARD_SITE_LINE: '   §awww.OwixMine.ru'
 
@@ -797,26 +797,26 @@ JOBS_WOODCUTTER_CANCEL: '§a§lЛЕСОРУБ§7: §fВы сдали дерев�
 JOBS_WOODCUTTER_NOT_WOOD: '§a§lЛЕСОРУБ§7: §fВы можете рубить только §cдерево'
 JOBS_WOODCUTTER_BREAK_WOOD: '§a§lЛЕСОРУБ§7: §fВы получили §e%2$s⛂§f. Осталось сломать §e%1$s блоков §fчтобы срубить дерево целиком'
 JOBS_WOODCUTTER_BREAK_TREE: '§a§lЛЕСОРУБ§7: §fВы срубили дерево и получили §e%s⛂§f. §aПолучите §fденьги у лесоруба §7(ПКМ)'
-JOBS_BOARD_MINER_LINE: ' Работа §6§lшахтера'
-JOBS_BOARD_WOODCUTTER_LINE: ' Работа §6§lлесоруба'
-JOBS_BOARD_SALARY_LINE: '§6╔ §fЗарплата: §a'
-JOBS_BOARD_MINED_LINE: '§6╠ §fДобыто: §b'
-JOBS_BOARD_BOOSTER_LINE: '§6╠ §fБустер: §c'
-JOBS_BOARD_COMBO_LINE: '§6╠ §fКомбо: §d'
-JOBS_BOARD_MONEY_LINE: '§6╚ §fМонеты: §e⛂§e'
-JOBS_BOARD_STATS_LINE: ' §6§lСтатистика'
+JOBS_BOARD_MINER_LINE: ' Работа §aшахтера'
+JOBS_BOARD_WOODCUTTER_LINE: ' Работа §aлесоруба'
+JOBS_BOARD_SALARY_LINE: '§6 ► §fЗарплата: §a'
+JOBS_BOARD_MINED_LINE: '§6 ► §fДобыто: §b'
+JOBS_BOARD_BOOSTER_LINE: '§6 ► §fБустер: §c'
+JOBS_BOARD_COMBO_LINE: '§6 ► §fКомбо: §d'
+JOBS_BOARD_MONEY_LINE: '§6 ► §fМонеты: §e⛂§e'
+JOBS_BOARD_STATS_LINE: ' §6§lСтатистика §7↴'
 MINER_TOP_HEADER: '§6§lТОП ШАХТЕРОВ'
 WOODCUTTER_TOP_HEADER: '§a§lТОП ЛЕСОРУБОВ'
 #LOBBY
 LOBBY_BOARD_NAME: '§6§lOWIX§e§lMINE §7⚔ §6§lХАБ-1'
-LOBBY_BOARD_DATE_LINE: '    §7'
+LOBBY_BOARD_DATE_LINE: '  §7'
 LOBBY_BOARD_GROUP_LINE: ' Группа: '
-LOBBY_BOARD_PROFILE_LINE: ' §6§lПрофиль:'
-LOBBY_BOARD_LEVEL_LINE: '§6╔ §fУровень: §7★'
-LOBBY_BOARD_COINS_LINE: '§6╠ §fЮниты: §d§l☄§d'
-LOBBY_BOARD_GOLD_LINE: '§6╠ §fЗолото: §e✰§6'
-LOBBY_BOARD_PRESENTS_LINE: '§6╚ §fПодарки: §e§e'
-LOBBY_BOARD_BOOSTER_LINE: '§8§l| §fБустер: §c'
+LOBBY_BOARD_PROFILE_LINE: ' §6§lПрофиль §7↴'
+LOBBY_BOARD_LEVEL_LINE: '§6 ► §fУровень: §7★'
+LOBBY_BOARD_COINS_LINE: '§6 ► §fЮниты: §d§l☄§d'
+LOBBY_BOARD_GOLD_LINE: '§6 ► §fЗолото: §e✰§6'
+LOBBY_BOARD_PRESENTS_LINE: '§6 ► §fПодарки: §e§e'
+LOBBY_BOARD_BOOSTER_LINE: '§7☇ §fБустер: §c'
 LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Онлайн режима: §a§l✓§a'
 LOBBY_BOARD_SITE_LINE: '   §awww.OwixMine.ru'
 
